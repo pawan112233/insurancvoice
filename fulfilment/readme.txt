@@ -1,0 +1,1 @@
+1. Dialogflow configuration done in with Google cloud platform. please reachout to developer for access
